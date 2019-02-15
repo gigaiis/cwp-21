@@ -1,0 +1,4 @@
+{"message":"/api/agent/bind POST\n body: {\"id\":2,\"newOfficeId\":10}","level":"info"}
+{"message":"/api/office/delete POST\n body: {\"id\":10,\"newOfficeId\":10}","level":"info"}
+{"message":"/api/property/create POST\n body: {\"heading\":\"dgfhjkl\",\"price\":456123,\"currency\":\"EUR\",\"location\":\"asdfgasd\",\"agentId\":2}","level":"info"}
+{"message":"/api/property/create POST\n body: {\"heading\":\"dgfhjkl\",\"price\":456123,\"currency\":\"EUR\",\"location\":\"asdfgasd\",\"agentId\":1}","level":"info"}

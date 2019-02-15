@@ -1,0 +1,6 @@
+2018-02-16T06:30:37.515Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"dgfhjkl","price":456123,"currency":"EUR","location":"asdfgasd","agentId":3}
+2018-02-16T06:31:13.023Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"hweqoje;qwopql,eqw;l","price":456123,"currency":"EUR","location":"asdfgasd","agentId":3}
+{"message":"/api/agent/properties/1 GET","level":"info"}
+{"message":"/api/office/create POST\n body: {\"title\":\"title 1\",\"website\":\"website 1\",\"address\":\"address 1\"}","level":"info"}

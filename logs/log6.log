@@ -1,0 +1,4 @@
+{"message":"/api/office/create POST\n body: {\"title\":\"title 2\",\"website\":\"website 2\",\"address\":\"address 2\"}","level":"info"}
+{"message":"/api/agent/create POST\n body: {\"name\":\"name 1\",\"email\":\"email 1\",\"tel\":\"tel 1\",\"officeId\":1}","level":"info"}
+{"message":"/api/agent/create POST\n body: {\"name\":\"name 1\",\"email\":\"email 1\",\"tel\":\"1234567890\",\"officeId\":1}","level":"info"}
+{"message":"/api/agent/create POST\n body: {\"name\":\"name1\",\"email\":\"email1\",\"tel\":\"1234567890\",\"officeId\":2}","level":"info"}

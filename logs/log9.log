@@ -1,0 +1,9 @@
+{"message":"/api/agent/properties/1 GET","level":"info"}
+{"message":"/api/agent/properties/2 GET","level":"info"}
+{"message":"/api/agent/properties/ GET","level":"info"}
+{"message":"/api/agent/ GET","level":"info"}
+{"message":"/api/offices/ GET","level":"info"}
+{"message":"/api/office/ GET","level":"info"}
+{"message":"/api/properties/ GET","level":"info"}
+{"message":"/api/propertie/ GET","level":"info"}
+{"message":"/api/property/ GET","level":"info"}

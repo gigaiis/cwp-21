@@ -1,0 +1,4 @@
+{"message":"/api/agent/create POST\n body: {\"name\":\"sadbaskn\",\"email\":\"em1q.q\",\"tel\":\"123242\",\"officeId\":2}","level":"info"}
+{"message":"/api/agent/create POST\n body: {\"name\":\"sadbaskn\",\"email\":\"em1@q.q\",\"tel\":\"123242\",\"officeId\":2}","level":"info"}
+{"message":"/api/property/create POST\n body: {\"heading\":\"asdsad\",\"price\":123,\"currency\":\"EUR\",\"location\":\"sada\"}","level":"info"}
+{"message":"/api/property/create POST\n body: {\"heading\":\"asdsad\",\"price\":123,\"currency\":\"EUR\",\"location\":\"sada\",\"agentId\":1}","level":"info"}
